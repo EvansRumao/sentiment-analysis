@@ -1,0 +1,11 @@
+transformers
+torch
+accelerate
+datasets
+sentencepiece
+scikit-learn
+pandas
+numpy
+matplotlib
+streamlit
+huggingface_hub
